@@ -6,8 +6,12 @@ This is a demo ui of a responsive video sharing app. [view the app](https://kand
 
 - HTML
 - CSS
+- Javascript
 
 ## Technologies
 
 - CSS grid
 - SVG
+
+## Features
+- Responsive design for mobile and tablet for portrait and landscape view
